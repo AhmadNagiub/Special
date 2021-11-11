@@ -109,7 +109,7 @@ random.addEventListener("click",(e)=>
 //-----------------------------------------------------------------------------------------
                 // Start Changing Landing page each 10 Secone
 let bckg = document.querySelector(".landing-page");
-let ArrayOfImages = ["1.jpg","2.jpg","3.jpg","8.png","5.jpg"];
+let ArrayOfImages = ["1.jpg","2.jpg","3.jpg","8.jfif","5.jpg"];
 
 function RandomizeImages()
 {
